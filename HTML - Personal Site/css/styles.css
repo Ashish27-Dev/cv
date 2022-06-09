@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(210, 229, 238, 0.986);
+    height: 10px; 
+}
+hr{
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    
+}
+
+h1{
+    color: rgb(5, 86, 110);
+}
+h4{
+    color: rgb(5, 86, 110);
+}
